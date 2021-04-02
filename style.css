@@ -7,6 +7,11 @@
 html {
   font-size: 75%;
 }
+.header div {
+  width: 80%;
+  margin: 3rem auto;
+}
+
 
 .number {
   background: #eee;
